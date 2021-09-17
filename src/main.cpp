@@ -73,6 +73,7 @@ void usercontrol(void) {
     if(Controller1.ButtonA.pressing()){
       Motor3.spin(forward);
     }
+    
     // This is the main execution loop for the user control program.
     // Each time through the loop your program should update motor + servo
     // values based on feedback from the joysticks.
