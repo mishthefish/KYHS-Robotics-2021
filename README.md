@@ -6,4 +6,4 @@ Code for KYHS juniors robot
 -Zohara Lam
 -Ezra Cohen
 -Yehudah Billet
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vexforum.com%2Ft%2Fdankest-vex-memes%2F42785%3Fpage%3D2&psig=AOvVaw01-FzLoxFvCbfQokDyzrCM&ust=1631988446508000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCJjNy-_MhvMCFQAAAAAdAAAAABAJ
+![alt text](https://www.vexforum.com/uploads/default/original/2X/4/4b46af2b1a819ad4c3a3129dda7a4f249e67e8a0.jpeg)
