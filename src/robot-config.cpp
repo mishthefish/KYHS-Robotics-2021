@@ -17,7 +17,7 @@ bool RemoteControlCodeEnabled = true;
 
 /**
  * Used to initialize code/tasks/devices added using tools in VEXcode Pro.
- * 
+ * You found the easter egg! 
  * This should be called at the start of your int main function.
  */
 void vexcodeInit( void ) {
