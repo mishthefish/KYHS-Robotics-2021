@@ -70,7 +70,7 @@ void autonomous(void) {
 void usercontrol(void) {
   // User control code here, inside the loop
   while (1) {
-    while(Controller1.ButtonA.pressing()){
+    if(Controller1.ButtonA.pressing()){
       Motor3.spin(forward);
     }
     // This is the main execution loop for the user control program.
