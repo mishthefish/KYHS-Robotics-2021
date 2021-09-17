@@ -1,6 +1,7 @@
 # KYHS Robotics A61300
 
-Simple overview of use/purpose.
+This is the code for our VEX Robotics Brain's manual and autonomous 
+modes during battles. 
 
 ## Description
 
@@ -36,10 +37,13 @@ command to run if program contains helper info
 ## Authors
 
 Contributors names and contact info
-
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
-
+    Mishael Sommers 
+    [@mishthefish314](https://twitter.com/mishthefish314)
+    Benjamin Cohen 
+    Zohara Lam
+    Zachy Gross
+    Yehudah Billet
+    Ezra Cohen
 ## Version History
 
 * 0.2
