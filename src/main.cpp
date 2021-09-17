@@ -72,7 +72,7 @@ void usercontrol(void) {
   while (1) {
     if(Controller1.ButtonA.pressing()){
       Motor3.spin(forward);
-      Motor4.sping(forward);
+      Motor4.spin(forward);
     }
     //I am testing a feature on github
     
