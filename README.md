@@ -35,15 +35,13 @@ command to run if program contains helper info
 ```
 
 ## Authors
-
-Contributors names and contact info
-    - Mishael Sommers 
-    [@mishthefish314](https://twitter.com/mishthefish314)
-    - Benjamin Cohen 
-    - Zohara Lam
-    - Zachy Gross
-    - Yehudah Billet
-    - Ezra Cohen
+- Mishael Sommers 
+[@mishthefish314](https://twitter.com/mishthefish314)
+- Benjamin Cohen 
+- Zohara Lam
+- Zachy Gross
+- Yehudah Billet
+- Ezra Cohen
 ## Version History
 
 * 0.2
